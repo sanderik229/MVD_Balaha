@@ -11,6 +11,7 @@ public class MvdBalahaApplication {
         SpringApplication.run(MvdBalahaApplication.class, args);
 
         System.out.println("MvdBalahaApplication started");
+        System.out.println("MvdBalahaApplication started");
     }
 
 }
