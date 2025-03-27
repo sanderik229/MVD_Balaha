@@ -1,10 +1,10 @@
-package com.example.mvd_balaha;
+package com.example.mvd_dev;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MvdBalahaApplicationTests {
+class MvdDevApplicationTests {
 
     @Test
     void contextLoads() {
